@@ -8,6 +8,7 @@ public class DemoaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoaApplication.class, args);
+        主master测试
     }
 
 }
